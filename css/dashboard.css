@@ -113,3 +113,8 @@ main{
 	opacity: 0.6;
 	letter-spacing: 1px;
 }
+
+.tab{
+  margin: 15px;
+  width: 50%;
+}
