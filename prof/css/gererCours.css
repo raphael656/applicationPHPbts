@@ -1,0 +1,22 @@
+.pageContent{
+    background-color: var(--background-main);
+    /* background-color: #f0f1f6; */
+    position: relative;
+    left: var(--page-header-width);
+    width: calc(100% - var(--page-header-width));
+
+    min-height: 100vh;
+    padding: 30px;
+}
+
+.difContenu{
+    background-color: white;
+    padding: 20px;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+.lol{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
